@@ -83,16 +83,16 @@ links:
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
-  - twitter:
-      name: Twitter
-      show: true
-      href: https://twitter.com/elliot_s1f
-      icon: fab fa-twitter
   - weibo:
       name: 微博
       show: true
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
+  - twitter:
+      name: Twitter
+      show: true
+      href: https://twitter.com/elliot_s1f
+      icon: fab fa-twitter
   - vine:
       name: Vine
       show: false
@@ -105,7 +105,7 @@ links:
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
@@ -163,11 +163,21 @@ links:
       show: false
       href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
       icon: fab fa-tumblr
-  - blog:
-      name: Blog
+  - essay:
+      name: Essay
       show: true
       href: http://host.domain/your_blog
       icon: fas fa-book-open
+  - memory:
+      name: Memory
+      show: true
+      href: http://host.domain/your_blog
+      icon: fas fa-calendar-check-o
+  - photos:
+      name: Photos
+      show: true
+      herf: 
+      icon: fas fa-camera-retro
   - email:
       name: Email
       show: true
