@@ -171,7 +171,7 @@ links:
   - essay:
       name: Writing
       show: true
-      href: http://host.domain/your_blog
+      href: https://sun1f.github.io/jekyll-gitbook/
       icon: fas fa-edit
   - memory:
       name: Memory
