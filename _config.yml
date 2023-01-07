@@ -83,14 +83,19 @@ links:
       show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
+  - email:
+      name: Email
+      show: true
+      href: mailto:versonpill120@gmail.com
+      icon: fas fa-envelope
   - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - twitter:
       name: Twitter
-      show: true
+      show: false
       href: https://twitter.com/elliot_s1f
       icon: fab fa-twitter
   - vine:
@@ -164,10 +169,10 @@ links:
       href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
       icon: fab fa-tumblr
   - essay:
-      name: Essay
+      name: Writing
       show: true
       href: http://host.domain/your_blog
-      icon: fas fa-book-open
+      icon: fas fa-edit
   - memory:
       name: Memory
       show: true
@@ -178,11 +183,6 @@ links:
       show: true
       herf: 
       icon: fas fa-camera-retro
-  - email:
-      name: Email
-      show: true
-      href: mailto:versonpill120@gmail.com
-      icon: fas fa-envelope
   - publickey:
       name: PGP Key
       show: false
