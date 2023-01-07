@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Elliot .Sun
 #subtitle:
-subtitle: a programming lover
+subtitle: Rocker, Guitarer, Movier, Cpluspluser, Dreamer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Elliot .Sun
@@ -85,7 +85,7 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://twitter.com/elliot_s1f
       icon: fab fa-twitter
   - weibo:
       name: 微博
@@ -109,8 +109,8 @@ links:
       icon: fab fa-vk
   - instagram:
       name: Instagram
-      show: false
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      show: true
+      href: https://www.instagram.com/elliot_s1f/
       icon: fab fa-instagram
   - flickr:
       name: Flickr
@@ -174,7 +174,7 @@ links:
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
@@ -182,7 +182,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    An apple a day keeps the doctor away
 
 #EOF
