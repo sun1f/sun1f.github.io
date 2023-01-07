@@ -172,7 +172,7 @@ links:
       name: Memory
       show: true
       href: http://host.domain/your_blog
-      icon: fas fa-calendar
+      icon: fas fa-calendar-check
   - photos:
       name: Photos
       show: true
